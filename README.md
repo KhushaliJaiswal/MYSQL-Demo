@@ -1,4 +1,4 @@
 # MYSQL-Demo
 A SQL and PHP based project.
 <br>
-Author - Khushali Jaiswal.
+Author - Khushali (BCA)
